@@ -6,7 +6,7 @@ I am highly proficient in : C/C++ , Python , Bash
 I know how to work with: Java (I hate it though) , Javascript , Rust
 
 
-🔭 I’m currently working on Embedded biosensors.
+🔭 I’m currently working on Embedded Systems alongwith biosensors.
 
 🌱 I’m currently learning Digital signal processing.
 
